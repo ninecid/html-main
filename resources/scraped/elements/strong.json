@@ -1,0 +1,24 @@
+{
+  "tag_name": "strong",
+  "categories": [
+    "Flow content.",
+    "Phrasing content.",
+    "Palpable content."
+  ],
+  "submodule_name": "text-level-semantics",
+  "contexts": [
+    "Where phrasing content is expected."
+  ],
+  "content_model": [
+    "Phrasing content."
+  ],
+  "tag_omission": [
+    "Neither tag is omissible."
+  ],
+  "content_attributes": [
+    "Global attributes"
+  ],
+  "dom_interface": [
+    "Uses HTMLElement."
+  ]
+}

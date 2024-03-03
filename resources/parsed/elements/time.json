@@ -1,0 +1,35 @@
+{
+  "tag_name": "time",
+  "struct_name": "Time",
+  "submodule_name": "text",
+  "mdn_link": "https://developer.mozilla.org/en-US/docs/Web/HTML/Element/time",
+  "has_global_attributes": true,
+  "has_closing_tag": true,
+  "attributes": [
+    {
+      "name": "datetime",
+      "description": "Machine-readable value",
+      "field_name": "datetime",
+      "ty": "String"
+    }
+  ],
+  "dom_interface": "HTMLTimeElement",
+  "content_categories": [
+    "Flow",
+    "Phrasing",
+    "Palpable"
+  ],
+  "permitted_content": [
+    {
+      "Category": "Phrasing"
+    }
+  ],
+  "permitted_parents": [
+    {
+      "Category": "Flow"
+    },
+    {
+      "Category": "Phrasing"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "tag_name": "div",
+  "struct_name": "Division",
+  "submodule_name": "text",
+  "mdn_link": "https://developer.mozilla.org/en-US/docs/Web/HTML/Element/div",
+  "has_global_attributes": true,
+  "has_closing_tag": true,
+  "attributes": [],
+  "dom_interface": "HTMLDivElement",
+  "content_categories": [
+    "Flow",
+    "Palpable"
+  ],
+  "permitted_content": [
+    {
+      "Element": "DescriptionDetails"
+    },
+    {
+      "Element": "DescriptionList"
+    },
+    {
+      "Element": "DescriptionTerm"
+    },
+    {
+      "Category": "Flow"
+    },
+    {
+      "Category": "ScriptSupporting"
+    }
+  ],
+  "permitted_parents": [
+    {
+      "Element": "DescriptionList"
+    },
+    {
+      "Category": "Flow"
+    }
+  ]
+}

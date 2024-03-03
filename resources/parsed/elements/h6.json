@@ -1,0 +1,31 @@
+{
+  "tag_name": "h6",
+  "struct_name": "Heading6",
+  "submodule_name": "sections",
+  "mdn_link": "https://developer.mozilla.org/en-US/docs/Web/HTML/Element/h6",
+  "has_global_attributes": true,
+  "has_closing_tag": true,
+  "attributes": [],
+  "dom_interface": "HTMLHeadingElement",
+  "content_categories": [
+    "Flow",
+    "Heading",
+    "Palpable"
+  ],
+  "permitted_content": [
+    {
+      "Category": "Phrasing"
+    }
+  ],
+  "permitted_parents": [
+    {
+      "Element": "HeadingGroup"
+    },
+    {
+      "Category": "Flow"
+    },
+    {
+      "Category": "Heading"
+    }
+  ]
+}

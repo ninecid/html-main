@@ -1,0 +1,42 @@
+{
+  "tag_name": "table",
+  "struct_name": "Table",
+  "submodule_name": "tables",
+  "mdn_link": "https://developer.mozilla.org/en-US/docs/Web/HTML/Element/table",
+  "has_global_attributes": true,
+  "has_closing_tag": true,
+  "attributes": [],
+  "dom_interface": "HTMLTableElement",
+  "content_categories": [
+    "Flow",
+    "Palpable"
+  ],
+  "permitted_content": [
+    {
+      "Element": "Caption"
+    },
+    {
+      "Element": "TableBody"
+    },
+    {
+      "Element": "TableColumnGroup"
+    },
+    {
+      "Element": "TableFoot"
+    },
+    {
+      "Element": "TableHead"
+    },
+    {
+      "Element": "TableRow"
+    },
+    {
+      "Category": "ScriptSupporting"
+    }
+  ],
+  "permitted_parents": [
+    {
+      "Category": "Flow"
+    }
+  ]
+}

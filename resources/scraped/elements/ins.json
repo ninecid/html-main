@@ -1,0 +1,26 @@
+{
+  "tag_name": "ins",
+  "categories": [
+    "Flow content.",
+    "Phrasing content.",
+    "Palpable content."
+  ],
+  "submodule_name": "edits",
+  "contexts": [
+    "Where phrasing content is expected."
+  ],
+  "content_model": [
+    "Transparent."
+  ],
+  "tag_omission": [
+    "Neither tag is omissible."
+  ],
+  "content_attributes": [
+    "Global attributes",
+    "cite — Link to the source of the quotation or more information about the edit",
+    "datetime — Date and (optionally) time of the change"
+  ],
+  "dom_interface": [
+    "Uses HTMLModElement."
+  ]
+}

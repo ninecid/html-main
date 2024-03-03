@@ -1,0 +1,34 @@
+{
+  "tag_name": "slot",
+  "struct_name": "Slot",
+  "submodule_name": "scripting",
+  "mdn_link": "https://developer.mozilla.org/en-US/docs/Web/HTML/Element/slot",
+  "has_global_attributes": true,
+  "has_closing_tag": true,
+  "attributes": [
+    {
+      "name": "name",
+      "description": "Name of shadow tree slot",
+      "field_name": "name",
+      "ty": "String"
+    }
+  ],
+  "dom_interface": "HTMLSlotElement",
+  "content_categories": [
+    "Flow",
+    "Phrasing"
+  ],
+  "permitted_content": [
+    {
+      "Category": "Transparent"
+    }
+  ],
+  "permitted_parents": [
+    {
+      "Category": "Flow"
+    },
+    {
+      "Category": "Phrasing"
+    }
+  ]
+}

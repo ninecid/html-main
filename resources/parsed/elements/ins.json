@@ -1,0 +1,41 @@
+{
+  "tag_name": "ins",
+  "struct_name": "InsertedText",
+  "submodule_name": "edits",
+  "mdn_link": "https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ins",
+  "has_global_attributes": true,
+  "has_closing_tag": true,
+  "attributes": [
+    {
+      "name": "cite",
+      "description": "Link to the source of the quotation or more information about the edit",
+      "field_name": "cite",
+      "ty": "String"
+    },
+    {
+      "name": "datetime",
+      "description": "Date and (optionally) time of the change",
+      "field_name": "datetime",
+      "ty": "String"
+    }
+  ],
+  "dom_interface": "HTMLModElement",
+  "content_categories": [
+    "Flow",
+    "Phrasing",
+    "Palpable"
+  ],
+  "permitted_content": [
+    {
+      "Category": "Transparent"
+    }
+  ],
+  "permitted_parents": [
+    {
+      "Category": "Flow"
+    },
+    {
+      "Category": "Phrasing"
+    }
+  ]
+}

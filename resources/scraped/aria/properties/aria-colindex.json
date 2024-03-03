@@ -1,0 +1,19 @@
+{
+  "kind": "Property",
+  "name": "aria-colindex",
+  "idl_name": "ariaColIndex",
+  "description": "Defines an element's column index or position with respect to the total number of columns within a table, grid, or treegrid. See related aria-colindextext, aria-colcount, and aria-colspan.",
+  "is_global": false,
+  "applicability": [
+    "cell",
+    "row"
+  ],
+  "descendants": [
+    "columnheader",
+    "gridcell",
+    "rowheader"
+  ],
+  "related": null,
+  "value_kind": "integer",
+  "values": []
+}

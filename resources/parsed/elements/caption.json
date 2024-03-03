@@ -1,0 +1,24 @@
+{
+  "tag_name": "caption",
+  "struct_name": "Caption",
+  "submodule_name": "tables",
+  "mdn_link": "https://developer.mozilla.org/en-US/docs/Web/HTML/Element/caption",
+  "has_global_attributes": true,
+  "has_closing_tag": true,
+  "attributes": [],
+  "dom_interface": "HTMLTableCaptionElement",
+  "content_categories": [],
+  "permitted_content": [
+    {
+      "Element": "Table"
+    },
+    {
+      "Category": "Flow"
+    }
+  ],
+  "permitted_parents": [
+    {
+      "Element": "Table"
+    }
+  ]
+}

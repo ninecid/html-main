@@ -1,0 +1,20 @@
+{
+  "kind": "Property",
+  "name": "aria-sort",
+  "idl_name": "ariaSort",
+  "description": "Indicates if items in a table or grid are sorted in ascending or descending order.",
+  "is_global": false,
+  "applicability": [
+    "columnheader",
+    "rowheader"
+  ],
+  "descendants": [],
+  "related": null,
+  "value_kind": "token",
+  "values": [
+    "ascending",
+    "descending",
+    "none (default)",
+    "other"
+  ]
+}

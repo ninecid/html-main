@@ -1,0 +1,25 @@
+{
+  "tag_name": "bdo",
+  "categories": [
+    "Flow content.",
+    "Phrasing content.",
+    "Palpable content."
+  ],
+  "submodule_name": "text-level-semantics",
+  "contexts": [
+    "Where phrasing content is expected."
+  ],
+  "content_model": [
+    "Phrasing content."
+  ],
+  "tag_omission": [
+    "Neither tag is omissible."
+  ],
+  "content_attributes": [
+    "Global attributes",
+    "Also, the dir global attribute has special semantics on this element."
+  ],
+  "dom_interface": [
+    "Uses HTMLElement."
+  ]
+}

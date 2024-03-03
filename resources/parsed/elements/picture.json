@@ -1,0 +1,38 @@
+{
+  "tag_name": "picture",
+  "struct_name": "Picture",
+  "submodule_name": "embedded",
+  "mdn_link": "https://developer.mozilla.org/en-US/docs/Web/HTML/Element/picture",
+  "has_global_attributes": true,
+  "has_closing_tag": true,
+  "attributes": [],
+  "dom_interface": "HTMLPictureElement",
+  "content_categories": [
+    "Flow",
+    "Phrasing",
+    "Embedded",
+    "Palpable"
+  ],
+  "permitted_content": [
+    {
+      "Element": "Image"
+    },
+    {
+      "Element": "MediaSource"
+    },
+    {
+      "Category": "ScriptSupporting"
+    }
+  ],
+  "permitted_parents": [
+    {
+      "Category": "Flow"
+    },
+    {
+      "Category": "Phrasing"
+    },
+    {
+      "Category": "Embedded"
+    }
+  ]
+}

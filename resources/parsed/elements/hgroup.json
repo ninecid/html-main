@@ -1,0 +1,46 @@
+{
+  "tag_name": "hgroup",
+  "struct_name": "HeadingGroup",
+  "submodule_name": "sections",
+  "mdn_link": "https://developer.mozilla.org/en-US/docs/Web/HTML/Element/hgroup",
+  "has_global_attributes": true,
+  "has_closing_tag": true,
+  "attributes": [],
+  "dom_interface": "HTMLElement",
+  "content_categories": [
+    "Flow",
+    "Heading",
+    "Palpable"
+  ],
+  "permitted_content": [
+    {
+      "Element": "Heading1"
+    },
+    {
+      "Element": "Heading2"
+    },
+    {
+      "Element": "Heading3"
+    },
+    {
+      "Element": "Heading4"
+    },
+    {
+      "Element": "Heading5"
+    },
+    {
+      "Element": "Heading6"
+    },
+    {
+      "Element": "Paragraph"
+    }
+  ],
+  "permitted_parents": [
+    {
+      "Category": "Flow"
+    },
+    {
+      "Category": "Heading"
+    }
+  ]
+}

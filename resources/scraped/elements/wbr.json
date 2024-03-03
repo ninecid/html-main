@@ -1,0 +1,23 @@
+{
+  "tag_name": "wbr",
+  "categories": [
+    "Flow content.",
+    "Phrasing content."
+  ],
+  "submodule_name": "text-level-semantics",
+  "contexts": [
+    "Where phrasing content is expected."
+  ],
+  "content_model": [
+    "Nothing."
+  ],
+  "tag_omission": [
+    "No end tag."
+  ],
+  "content_attributes": [
+    "Global attributes"
+  ],
+  "dom_interface": [
+    "Uses HTMLElement."
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "el-img-no-name",
+  "name": "[^img^] with no accessible name.",
+  "implicit_roles": [
+    "none",
+    "presentation",
+    "img"
+  ],
+  "allowed_roles": [
+    "none",
+    "presentation",
+    "img",
+    "none",
+    "presentation"
+  ],
+  "allowed_properties": [
+    "`aria-hidden=\"true\"`"
+  ],
+  "global": null,
+  "checked": null,
+  "strong": [
+    "No `role`",
+    "No `role`",
+    "No `aria-*` attributes"
+  ],
+  "links": [
+    "No `role`",
+    "No `role`"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "tag_name": "li",
+  "struct_name": "ListItem",
+  "submodule_name": "text",
+  "mdn_link": "https://developer.mozilla.org/en-US/docs/Web/HTML/Element/li",
+  "has_global_attributes": true,
+  "has_closing_tag": true,
+  "attributes": [
+    {
+      "name": "value",
+      "description": "Ordinal value of the list item. Only if the element is not a child of an `ul` or `menu` element.",
+      "field_name": "value",
+      "ty": "String"
+    }
+  ],
+  "dom_interface": "HTMLLIElement",
+  "content_categories": [],
+  "permitted_content": [
+    {
+      "Category": "Flow"
+    }
+  ],
+  "permitted_parents": [
+    {
+      "Element": "Menu"
+    },
+    {
+      "Element": "OrderedList"
+    },
+    {
+      "Element": "UnorderedList"
+    }
+  ]
+}

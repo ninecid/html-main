@@ -1,0 +1,24 @@
+{
+  "tag_name": "p",
+  "struct_name": "Paragraph",
+  "submodule_name": "text",
+  "mdn_link": "https://developer.mozilla.org/en-US/docs/Web/HTML/Element/p",
+  "has_global_attributes": true,
+  "has_closing_tag": true,
+  "attributes": [],
+  "dom_interface": "HTMLParagraphElement",
+  "content_categories": [
+    "Flow",
+    "Palpable"
+  ],
+  "permitted_content": [
+    {
+      "Category": "Phrasing"
+    }
+  ],
+  "permitted_parents": [
+    {
+      "Category": "Flow"
+    }
+  ]
+}

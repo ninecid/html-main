@@ -1,0 +1,35 @@
+{
+  "tag_name": "data",
+  "struct_name": "Data",
+  "submodule_name": "text",
+  "mdn_link": "https://developer.mozilla.org/en-US/docs/Web/HTML/Element/data",
+  "has_global_attributes": true,
+  "has_closing_tag": true,
+  "attributes": [
+    {
+      "name": "value",
+      "description": "Machine-readable value",
+      "field_name": "value",
+      "ty": "String"
+    }
+  ],
+  "dom_interface": "HTMLDataElement",
+  "content_categories": [
+    "Flow",
+    "Phrasing",
+    "Palpable"
+  ],
+  "permitted_content": [
+    {
+      "Category": "Phrasing"
+    }
+  ],
+  "permitted_parents": [
+    {
+      "Category": "Flow"
+    },
+    {
+      "Category": "Phrasing"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "tag_name": "embed",
+  "struct_name": "Embed",
+  "submodule_name": "embedded",
+  "mdn_link": "https://developer.mozilla.org/en-US/docs/Web/HTML/Element/embed",
+  "has_global_attributes": true,
+  "has_closing_tag": false,
+  "attributes": [
+    {
+      "name": "src",
+      "description": "Address of the resource",
+      "field_name": "src",
+      "ty": "String"
+    },
+    {
+      "name": "type",
+      "description": "Type of embedded resource",
+      "field_name": "type_",
+      "ty": "String"
+    },
+    {
+      "name": "width",
+      "description": "Horizontal dimension",
+      "field_name": "width",
+      "ty": "String"
+    },
+    {
+      "name": "height",
+      "description": "Vertical dimension",
+      "field_name": "height",
+      "ty": "String"
+    }
+  ],
+  "dom_interface": "HTMLEmbedElement",
+  "content_categories": [
+    "Flow",
+    "Phrasing",
+    "Embedded",
+    "Interactive",
+    "Palpable"
+  ],
+  "permitted_content": [],
+  "permitted_parents": [
+    {
+      "Category": "Flow"
+    },
+    {
+      "Category": "Phrasing"
+    },
+    {
+      "Category": "Embedded"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "tag_name": "noscript",
+  "struct_name": "NoScript",
+  "submodule_name": "scripting",
+  "mdn_link": "https://developer.mozilla.org/en-US/docs/Web/HTML/Element/noscript",
+  "has_global_attributes": true,
+  "has_closing_tag": true,
+  "attributes": [],
+  "dom_interface": "HTMLElement",
+  "content_categories": [
+    "Metadata",
+    "Flow",
+    "Phrasing"
+  ],
+  "permitted_content": [
+    {
+      "Element": "Head"
+    },
+    {
+      "Element": "Link"
+    },
+    {
+      "Element": "Meta"
+    },
+    {
+      "Element": "Style"
+    },
+    {
+      "Element": "Text"
+    },
+    {
+      "Category": "Transparent"
+    }
+  ],
+  "permitted_parents": [
+    {
+      "Element": "Head"
+    },
+    {
+      "Element": "NoScript"
+    },
+    {
+      "Category": "Flow"
+    },
+    {
+      "Category": "Phrasing"
+    }
+  ]
+}

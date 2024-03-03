@@ -1,0 +1,41 @@
+{
+  "tag_name": "details",
+  "struct_name": "Details",
+  "submodule_name": "interactive",
+  "mdn_link": "https://developer.mozilla.org/en-US/docs/Web/HTML/Element/details",
+  "has_global_attributes": true,
+  "has_closing_tag": true,
+  "attributes": [
+    {
+      "name": "name",
+      "description": "Name of group of mutually-exclusive details elements",
+      "field_name": "name",
+      "ty": "String"
+    },
+    {
+      "name": "open",
+      "description": "Whether the details are visible",
+      "field_name": "open",
+      "ty": "String"
+    }
+  ],
+  "dom_interface": "HTMLDetailsElement",
+  "content_categories": [
+    "Flow",
+    "Interactive",
+    "Palpable"
+  ],
+  "permitted_content": [
+    {
+      "Element": "Summary"
+    },
+    {
+      "Category": "Flow"
+    }
+  ],
+  "permitted_parents": [
+    {
+      "Category": "Flow"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "tag_name": "datalist",
+  "struct_name": "DataList",
+  "submodule_name": "forms",
+  "mdn_link": "https://developer.mozilla.org/en-US/docs/Web/HTML/Element/datalist",
+  "has_global_attributes": true,
+  "has_closing_tag": true,
+  "attributes": [],
+  "dom_interface": "HTMLDataListElement",
+  "content_categories": [
+    "Flow",
+    "Phrasing"
+  ],
+  "permitted_content": [
+    {
+      "Element": "Option"
+    },
+    {
+      "Category": "Phrasing"
+    },
+    {
+      "Category": "ScriptSupporting"
+    }
+  ],
+  "permitted_parents": [
+    {
+      "Category": "Flow"
+    },
+    {
+      "Category": "Phrasing"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+[workspace]
+members = [
+    "crates/html",
+    "crates/html-bindgen",
+    "crates/html-sys",
+    "crates/css-sys",
+    "xtask",
+]

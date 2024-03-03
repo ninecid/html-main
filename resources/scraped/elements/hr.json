@@ -1,0 +1,23 @@
+{
+  "tag_name": "hr",
+  "categories": [
+    "Flow content."
+  ],
+  "submodule_name": "grouping-content",
+  "contexts": [
+    "Where flow content is expected.",
+    "As a child of a select element."
+  ],
+  "content_model": [
+    "Nothing."
+  ],
+  "tag_omission": [
+    "No end tag."
+  ],
+  "content_attributes": [
+    "Global attributes"
+  ],
+  "dom_interface": [
+    "\n    [Exposed=Window]\ninterface HTMLHRElement : HTMLElement {\n  [HTMLConstructor] constructor();\n\n  // also has obsolete members\n};\n   "
+  ]
+}

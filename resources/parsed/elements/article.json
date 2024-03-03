@@ -1,0 +1,28 @@
+{
+  "tag_name": "article",
+  "struct_name": "Article",
+  "submodule_name": "sections",
+  "mdn_link": "https://developer.mozilla.org/en-US/docs/Web/HTML/Element/article",
+  "has_global_attributes": true,
+  "has_closing_tag": true,
+  "attributes": [],
+  "dom_interface": "HTMLElement",
+  "content_categories": [
+    "Flow",
+    "Sectioning",
+    "Palpable"
+  ],
+  "permitted_content": [
+    {
+      "Category": "Flow"
+    }
+  ],
+  "permitted_parents": [
+    {
+      "Category": "Flow"
+    },
+    {
+      "Category": "Sectioning"
+    }
+  ]
+}

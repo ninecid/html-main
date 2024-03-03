@@ -1,0 +1,23 @@
+{
+  "tag_name": "footer",
+  "categories": [
+    "Flow content.",
+    "Palpable content."
+  ],
+  "submodule_name": "sections",
+  "contexts": [
+    "Where flow content is expected."
+  ],
+  "content_model": [
+    "Flow content, but with no header or footer element\n   descendants."
+  ],
+  "tag_omission": [
+    "Neither tag is omissible."
+  ],
+  "content_attributes": [
+    "Global attributes"
+  ],
+  "dom_interface": [
+    "Uses HTMLElement."
+  ]
+}

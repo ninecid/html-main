@@ -1,0 +1,24 @@
+{
+  "tag_name": "ruby",
+  "struct_name": "RubyAnnotation",
+  "submodule_name": "text",
+  "mdn_link": "https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ruby",
+  "has_global_attributes": true,
+  "has_closing_tag": true,
+  "attributes": [],
+  "dom_interface": "HTMLElement",
+  "content_categories": [
+    "Flow",
+    "Phrasing",
+    "Palpable"
+  ],
+  "permitted_content": [],
+  "permitted_parents": [
+    {
+      "Category": "Flow"
+    },
+    {
+      "Category": "Phrasing"
+    }
+  ]
+}
